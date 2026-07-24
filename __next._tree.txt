@@ -1,2 +1,2 @@
 :HL["/FinancialPlan/_next/static/chunks/425_0s_7z5rp5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"g3e3qG3yHxzRPBFYhI4ah"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"YUjXuWk9JhwxXrLqsknbh"}
